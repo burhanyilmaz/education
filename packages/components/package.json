@@ -5,7 +5,7 @@
   "keywords": [
     "component"
   ],
-  "author": "Burhan Yılmaz <wburhany@gmail.com>",
+  "author": "Burhan Yılmaz",
   "homepage": "",
   "license": "ISC",
   "main": "lib/components.js",
@@ -18,5 +18,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "93401691d9de3f39df1bb25367c223e458c24c51"
 }
