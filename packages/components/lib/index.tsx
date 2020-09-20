@@ -21,7 +21,7 @@ const Avatar = ({ uri, size }: IRoundedAvatar) => {
     width: size,
     height: size,
     borderRadius: size / 2,
-  }} />
+  }}/>
 }
 
 export {
