@@ -1,6 +1,6 @@
 {
   "name": "student",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
@@ -10,7 +10,7 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "@educa/components": "^0.0.5",
+    "@educa/components": "^0.0.6",
     "react": "16.13.1",
     "react-native": "0.63.2"
   },
