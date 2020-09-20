@@ -4,5 +4,6 @@
     "student",
     "teacher"
   ],
-  "version": "0.0.6"
+  "version": "0.0.6",
+  "ignoreChanges": ["**/__fixtures__/**", "**/__tests__/**", "**/*.md", "student", "teacher"]
 }
