@@ -6,9 +6,11 @@ interface ICard {
 }
 
 const Card = ({ title }: ICard) => {
-  return <View>
-    <Text>{title}</Text>
-  </View>
+  return (
+    <View>
+       <Text>{title}</Text>
+    </View>
+  )
 }
 
 interface IRoundedAvatar {
