@@ -2,7 +2,7 @@
   "packages": [
     "packages/components"
   ],
-  "version": "0.0.7",
+  "version": "0.0.8",
   "ignoreChanges": [
     "**/__fixtures__/**",
     "**/__tests__/**",
