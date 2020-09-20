@@ -6,7 +6,6 @@ interface ICard {
 }
 
 const Card = ({ title }: ICard) => {
-
   return <View>
     <Text>{title}</Text>
   </View>
