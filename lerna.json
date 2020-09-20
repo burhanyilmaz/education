@@ -3,11 +3,14 @@
     "packages/components"
   ],
   "version": "0.0.8",
-  "ignoreChanges": [
-    "**/__fixtures__/**",
-    "**/__tests__/**",
-    "**/*.md",
-    "student",
-    "teacher"
-  ]
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "student",
+        "teacher"
+      ],
+      "message": "chore(release): publish",
+      "registry": "https://npm.pkg.github.com"
+    }
+  }
 }
