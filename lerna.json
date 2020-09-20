@@ -2,6 +2,12 @@
   "packages": [
     "packages/components"
   ],
-  "version": "0.0.6",
-  "ignoreChanges": ["**/__fixtures__/**", "**/__tests__/**", "**/*.md", "student", "teacher"]
+  "version": "0.0.7",
+  "ignoreChanges": [
+    "**/__fixtures__/**",
+    "**/__tests__/**",
+    "**/*.md",
+    "student",
+    "teacher"
+  ]
 }
