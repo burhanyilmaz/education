@@ -1,6 +1,8 @@
 {
   "packages": [
-    "packages/components"
+    "packages/components",
+    "student",
+    "teacher"
   ],
   "version": "0.0.5"
 }
