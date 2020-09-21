@@ -24,6 +24,7 @@
     "access": "public"
   },
   "dependencies": {
+    "@educa/i18n": "^0.0.15",
     "react": "^16.13.1",
     "react-native": "^0.63.2"
   },

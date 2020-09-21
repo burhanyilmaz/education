@@ -41,6 +41,5 @@
       "json",
       "node"
     ]
-  },
-  "workspaces": ["../packages/*"]
+  }
 }
