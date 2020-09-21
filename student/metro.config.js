@@ -8,8 +8,9 @@
 const path = require('path');
 
 const watchFolders = [
-  path.join(__dirname, '../packages'),
   path.join(__dirname, './node_modules'),
+  path.join(__dirname, '../node_modules'),
+  path.join(__dirname, '../packages'),
 ];
 
 module.exports = {
@@ -21,5 +22,5 @@ module.exports = {
       },
     }),
   },
-  watchFolders,
+  watchFolders
 };
