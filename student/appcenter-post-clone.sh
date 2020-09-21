@@ -5,3 +5,4 @@ pwd
 cd ..
 yarn install 
 cd student
+yarn install 
