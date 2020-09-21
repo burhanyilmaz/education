@@ -10,7 +10,8 @@
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx"
   },
   "dependencies": {
-    "@educa/components": "latest",
+    "@educa/components": "*",
+    "@educa/i18n": "*",
     "react": "16.13.1",
     "react-native": "0.63.2"
   },
@@ -40,5 +41,6 @@
       "json",
       "node"
     ]
-  }
+  },
+  "workspaces": ["../packages/*"]
 }
